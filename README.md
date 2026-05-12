@@ -1,14 +1,5 @@
-# 🧪 QA Portfolio — Manual Testing of OpenCart E-Commerce Platform
-
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Test Cases](https://img.shields.io/badge/Test%20Cases-40-blue)
-![Pass Rate](https://img.shields.io/badge/Pass%20Rate-80%25-green)
-![Bugs Found](https://img.shields.io/badge/Bugs%20Found-8-red)
-![Type](https://img.shields.io/badge/Type-Manual%20Testing-orange)
-
----
-
-## 📌 About This Project
+# QA Portfolio — Manual Testing of OpenCart E-Commerce Platform
+##  About This Project
 
 End-to-end **manual QA testing** of [OpenCart](https://demo.opencart.com) — a live, open-source e-commerce web application used by thousands of businesses worldwide.
 
