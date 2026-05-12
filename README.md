@@ -79,7 +79,7 @@ Low Severity             0 defects
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 QA-Portfolio-OpenCart/
@@ -128,7 +128,7 @@ QA-Portfolio-OpenCart/
 
 ---
 
-## 🏁 Conclusion & Recommendation
+##  Conclusion & Recommendation
 
 > ❌ **NOT RECOMMENDED FOR RELEASE** without resolving High-severity defects.
 
