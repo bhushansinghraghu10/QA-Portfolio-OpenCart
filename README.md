@@ -9,7 +9,7 @@ This project simulates a complete, real-world **Software Testing Life Cycle (STL
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Validate functional quality across 5 core application modules
 - Design structured test cases using proven test design techniques
@@ -19,7 +19,7 @@ This project simulates a complete, real-world **Software Testing Life Cycle (STL
 
 ---
 
-## 🔬 Scope of Testing
+## Scope of Testing
 
 | Module | Test Cases | Testing Types Applied |
 |--------|-----------|----------------------|
@@ -32,15 +32,15 @@ This project simulates a complete, real-world **Software Testing Life Cycle (STL
 
 ---
 
-## 📊 Execution Results
+##  Execution Results
 
 | Metric | Value |
 |--------|-------|
 | Total Test Cases Written | 40 |
 | Total Executed | 40 |
-| ✅ Passed | 32 |
-| ❌ Failed | 8 |
-| 🚫 Blocked | 0 |
+|  Passed | 32 |
+|  Failed | 8 |
+|  Blocked | 0 |
 | **Pass Rate** | **80%** |
 
 ---
@@ -104,7 +104,7 @@ QA-Portfolio-OpenCart/
 
 ---
 
-## 🔧 Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -116,7 +116,7 @@ QA-Portfolio-OpenCart/
 
 ---
 
-## 📋 Deliverables
+##  Deliverables
 
 | Artifact | Description | Format |
 |----------|-------------|--------|
@@ -136,7 +136,7 @@ QA-Portfolio-OpenCart/
 
 ---
 
-## 👤 About the Tester
+##  About the Tester
 
 **Bhushan Singh** — Detail-oriented B.Tech graduate with hands-on experience in QA workflows, structured test documentation, and data validation.
 
